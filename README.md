@@ -2,6 +2,7 @@
 - 👀 I’m interested in Backend.
 - 🌱 I’m currently learning Go lang.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tetsuhisa00&theme=2077)
 
 ![Tetsuhisa00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetsuhisa00&show_icons=true&theme=cobalt2)
   
