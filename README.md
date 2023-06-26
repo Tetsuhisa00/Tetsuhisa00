@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tetsuhisa00. I'm Japanese.
+- 👋 Hi, I’m @Tetsuhisa00. I'm Japanese🇯🇵.
 - 👀 I’m interested in Backend.
 - 🌱 I’m currently learning Go lang.
 
