@@ -1,4 +1,4 @@
-- <span style="font-size: 200%; color: block;">Hi! </span> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<span style="font-size: 200%; color: block;">I'm Tetsuhisa00🇯🇵!</span>
+- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tetsuhisa00🇯🇵!
 - 👀 I’m interested in Backend.
 - 🌱 I’m currently learning Go lang.
 
